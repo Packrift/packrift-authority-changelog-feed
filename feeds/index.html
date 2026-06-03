@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index, follow">
+<title>Packrift Authority Changelog Feed Feeds</title>
+<meta name="description" content="Public Packrift authority changelog feed for verified backlink, discovery, and count-boundary updates.">
+<link rel="canonical" href="https://packrift-authority-changelog-feed.vercel.app/feeds/">
+<style>
+:root {
+  color-scheme: light;
+  --ink:#17202a;
+  --muted:#5d6875;
+  --line:#d8dee6;
+  --panel:#ffffff;
+  --paper:#f8fafc;
+  --blue:#1957a6;
+  --green:#1d6b4f;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+  line-height: 1.5;
+}
+header, main, footer { max-width: 1160px; margin: 0 auto; padding: 24px; }
+header { border-bottom: 1px solid var(--line); background: var(--panel); }
+.eyebrow { color: var(--blue); font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 0; }
+h1 { font-size: 34px; line-height: 1.12; margin: 8px 0 12px; letter-spacing: 0; }
+h2 { font-size: 22px; margin: 30px 0 10px; letter-spacing: 0; }
+p { max-width: 860px; }
+nav { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+nav a { color: var(--ink); text-decoration: none; border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; background: #fff; }
+nav a.active { border-color: var(--blue); color: var(--blue); font-weight: 700; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin: 18px 0; }
+.metric { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 14px; }
+.metric strong { display:block; font-size: 26px; line-height: 1.15; }
+.muted { color: var(--muted); }
+table { width: 100%; border-collapse: collapse; background: var(--panel); border: 1px solid var(--line); }
+th, td { text-align: left; vertical-align: top; border-bottom: 1px solid var(--line); padding: 10px; font-size: 14px; }
+th { background: #eef2f6; font-size: 12px; text-transform: uppercase; letter-spacing: 0; }
+code { background: #eef2f6; padding: 2px 4px; border-radius: 4px; }
+a { color: var(--blue); }
+footer { color: var(--muted); font-size: 13px; border-top: 1px solid var(--line); }
+@media (max-width: 680px) {
+  header, main, footer { padding: 18px; }
+  h1 { font-size: 28px; }
+  table { display:block; overflow-x:auto; }
+}
+</style>
+</head>
+<body>
+<header>
+<div class="eyebrow">Feed formats</div>
+<h1>Packrift Authority Changelog Feed Feeds</h1>
+<p class="muted">Generated 2026-06-03T13:32:31Z from the Packrift authority ledger. This feed is read-only and does not promote referenced evidence unless the original ledger update already did.</p>
+<nav><a class="" href="/">Overview</a><a class="" href="/updates/">Updates</a><a class="active" href="/feeds/">Feeds</a><a class="" href="/verification-policy/">Policy</a><a class="" href="/count-boundaries/">Boundaries</a></nav>
+</header>
+<main>
+<h2>Feeds</h2>
+<p>Public no-auth feeds are available for machine consumers.</p>
+<ul>
+<li><a href="/feed.xml">RSS feed</a></li>
+<li><a href="/atom.xml">Atom feed</a></li>
+<li><a href="/feed.json">JSON Feed</a></li>
+<li><a href="/activitystream.json">ActivityStream</a></li>
+</ul>
+</main>
+<footer>Packrift LLC public authority changelog feed. Public records only; no account, API key, or credentials required.</footer>
+</body>
+</html>

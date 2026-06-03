@@ -1,0 +1,31 @@
+{
+  "boundaries": [
+    "This changelog/feed republishes compact authority-ledger events; it does not recount underlying evidence URLs.",
+    "Evidence references are relative Packrift execution references, not absolute local paths.",
+    "RSS, Atom, JSON Feed, ActivityStream, sitemap, and IndexNow are discovery surfaces, not referring-domain proof."
+  ],
+  "count_treatment": {
+    "owned_public_url_mentions": 20,
+    "referenced_prior_readbacks_recounted": 0,
+    "referenced_status_artifacts_recounted": 0,
+    "separate_feed_third_party_readbacks": "count only after direct public verification of external profile/archive/listing URLs for this feed host"
+  },
+  "gateway_sitemap_url_count": 20,
+  "generated_at": "2026-06-03T13:32:31Z",
+  "host": "packrift-authority-changelog-feed.vercel.app",
+  "latest_totals": {
+    "bing_visible_total": 0,
+    "discovery_total": 457599,
+    "owned_total": 2283070,
+    "pending_total": 109,
+    "surfaces_total": 62533,
+    "tier_ab_total": 1437,
+    "total_semrush_total": 30,
+    "useful_semrush_total": 11,
+    "verified_total": 62425
+  },
+  "latest_update_utc": "2026-06-03 13:19 UTC",
+  "ledger_updates_published": 40,
+  "site": "https://packrift-authority-changelog-feed.vercel.app",
+  "title": "Packrift Authority Changelog Feed"
+}

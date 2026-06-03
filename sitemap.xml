@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/updates/</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/feeds/</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/verification-policy/</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/count-boundaries/</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/data/stats.json</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/data/authority-changelog.json</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/data/authority-changelog.jsonl</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/data/manifest.json</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/feed.xml</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/atom.xml</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/feed.json</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/activitystream.json</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/llms.txt</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/llms-full.txt</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/agent-manifest.json</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/.well-known/agent-manifest.json</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/openapi.json</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/robots.txt</loc><lastmod>2026-06-03</lastmod></url>
+  <url><loc>https://packrift-authority-changelog-feed.vercel.app/9ca390997799c6ddce82608acfcbb174.txt</loc><lastmod>2026-06-03</lastmod></url>
+</urlset>

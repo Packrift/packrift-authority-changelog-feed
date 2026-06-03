@@ -1,0 +1,13 @@
+{
+  "activitystream": "https://packrift-authority-changelog-feed.vercel.app/activitystream.json",
+  "atom": "https://packrift-authority-changelog-feed.vercel.app/atom.xml",
+  "changelog_json": "https://packrift-authority-changelog-feed.vercel.app/data/authority-changelog.json",
+  "changelog_jsonl": "https://packrift-authority-changelog-feed.vercel.app/data/authority-changelog.jsonl",
+  "generated_at": "2026-06-03T13:32:31Z",
+  "host": "packrift-authority-changelog-feed.vercel.app",
+  "json_feed": "https://packrift-authority-changelog-feed.vercel.app/feed.json",
+  "rss": "https://packrift-authority-changelog-feed.vercel.app/feed.xml",
+  "site": "https://packrift-authority-changelog-feed.vercel.app",
+  "stats_file": "https://packrift-authority-changelog-feed.vercel.app/data/stats.json",
+  "title": "Packrift Authority Changelog Feed"
+}

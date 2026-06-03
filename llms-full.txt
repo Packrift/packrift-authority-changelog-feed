@@ -1,0 +1,66 @@
+# Packrift Authority Changelog Feed
+
+Canonical: https://packrift-authority-changelog-feed.vercel.app/
+Generated: 2026-06-03T13:32:31Z
+
+## Purpose
+Public Packrift authority changelog and feed for verified ledger movements.
+
+## Current State
+- Ledger updates published: 40
+- Latest surfaces excluding indexing-only: 62,533
+- Latest verified live/existing: 62,425
+- Latest submitted/pending: 109
+- Latest owned public URL/mentions: 2,283,070
+- Latest Tier A/B surfaces: 1,437
+
+## Feeds
+- RSS: https://packrift-authority-changelog-feed.vercel.app/feed.xml
+- Atom: https://packrift-authority-changelog-feed.vercel.app/atom.xml
+- JSON Feed: https://packrift-authority-changelog-feed.vercel.app/feed.json
+- ActivityStream: https://packrift-authority-changelog-feed.vercel.app/activitystream.json
+
+## Count Boundary
+Referenced status artifacts, prior third-party readbacks, prior archives, and previous discovery receipts are not recounted by this feed.
+
+## Recent Update IDs
+- 6d6c19fa12eabb28: Packrift Authority Gateway Registry
+- 9eb54e2a2a3f344b: Packrift Contribution Status Gateway
+- 6f9e571319762f59: Packrift GitHub Pages API Directory Gateway
+- f7654d6aeed84735: Packrift Agent Discovery Hub Gateway
+- ba98d6a86e67a6a2: Packrift Flex Fit Lab Gateway
+- c3cf92756b372635: Packrift Technical SEO Discovery Gateway
+- 4ae7b68e77b713d7: Packrift Public Resource Registry Agent Gateway
+- 0a2604c364835c31: Packrift Exact Spec Size Agent Gateway
+- 028b280b3bff79bc: Packrift Product Schema Readiness Agent Gateway
+- 2e0e1b1b90d42230: Packrift Catalog Trust Ledger Gateway
+- a79e04061ee6bb1e: Packrift Packaging Price/Size Benchmark Gateway
+- 2b5200d6bc5d92b3: Packrift Catalog Knowledge Graph Gateway
+- a66e181442fe3cec: Packrift Benchmark Navigator Gateway
+- 829fabcdf81d21c1: Packrift Operations Resource Graph Gateway
+- f243646006b14dd2: Packrift SKU Evidence Cards Gateway
+- c66c5662477c3835: Packrift Procurement Readiness Gateway
+- f8fe6564657c5487: Packrift Pack Count Unit Signal Gateway
+- 03f136e9697e1f83: Packrift Fit Substitution Gateway
+- 2cfa41d624c18828: Packrift Packaging Optimization Benchmark Gateway
+- 7cecf6b49c3d9d9e: Packrift Dimensional Weight Agent Gateway
+- d14d6cf7db839f38: bounded no-auth decoded Wayback replay recheck for the five repaired Agent Manifest direct API listings promoted at 05:5
+- e1b2a3ded547e90f: Packrift authority update
+- 4e3b7f8b44aaaec1: bounded no-auth pending/direct-readback continuation
+- 73a0d4429a97f545: bounded read-only delayed Agent Manifest status/search/direct-listing readback for the six recent gateway hosts: Freight
+- ef9024fa19ff1d89: Packrift authority update
+- 12f7f12132f02b1d: Packrift Packaging Index Agent Gateway
+- fb3d37e226642b08: bounded read-only Packrift authority readback after the 05:51 UTC Agent Manifest promotion
+- 28d7ddd55200f454: Packrift authority update
+- 5e49a3357dee16a7: bounded read-only Packrift authority continuation after the 05:33 UTC Agent Manifest direct listing win
+- acb094c73e9d8f2d: targeted Agent Manifest repair lane for the six newest Packrift gateway hosts after delayed status readback showed their
+- e24f5e1b47a50551: bounded targeted pending-quality recheck for Packrift authority
+- 9230df80a4ff286b: Packrift authority update
+- 430692a1918c3c71: Packrift authority update
+- d1166721ebdb81ee: Packrift authority update
+- ae1dd99ede954643: Packrift authority update
+- e30e98e71dd04d14: Packrift authority update
+- 7caf9c82afd8233f: Packrift authority update
+- ffc06900a69358df: Packrift authority update
+- c1f6c3a34fec0fcb: delayed no-auth technical/profile readback for held candidates on the three newest Packrift gateway hosts: Item Fitment 
+- 1eb91b0d394e4bc0: Packrift authority update

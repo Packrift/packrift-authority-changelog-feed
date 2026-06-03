@@ -1,0 +1,148 @@
+{
+  "feed_url": "https://packrift-authority-changelog-feed.vercel.app/feed.json",
+  "home_page_url": "https://packrift-authority-changelog-feed.vercel.app/",
+  "items": [
+    {
+      "content_text": "Codex built, deployed, publicly verified, and submitted the Packrift Authority Gateway Registry at `https://packrift-authority-gateway-registry.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "6d6c19fa12eabb28",
+      "title": "Packrift Authority Gateway Registry",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#6d6c19fa12eabb28"
+    },
+    {
+      "content_text": "Codex ran a targeted public GitHub pending-queue readback, then built, deployed, publicly verified, and submitted a compact Packrift Contribution Status Gateway at `https://packrift-contribution-status-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "9eb54e2a2a3f344b",
+      "title": "Packrift Contribution Status Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#9eb54e2a2a3f344b"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, and submitted a compact Packrift GitHub Pages API Directory Gateway at `https://packrift-github-pages-api-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "6f9e571319762f59",
+      "title": "Packrift GitHub Pages API Directory Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#6f9e571319762f59"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, and submitted a compact Packrift Agent Discovery Hub Gateway at `https://packrift-agent-discovery-hub-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "f7654d6aeed84735",
+      "title": "Packrift Agent Discovery Hub Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#f7654d6aeed84735"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, and submitted a compact Packrift Flex Fit Lab Gateway at `https://packrift-flex-fit-lab-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "ba98d6a86e67a6a2",
+      "title": "Packrift Flex Fit Lab Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#ba98d6a86e67a6a2"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, repaired, and submitted a compact Packrift Technical SEO Discovery Gateway at `https://packrift-technical-seo-discovery-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "c3cf92756b372635",
+      "title": "Packrift Technical SEO Discovery Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#c3cf92756b372635"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, and submitted a compact Packrift Public Resource Registry Agent Gateway at `https://packrift-public-resource-registry-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "4ae7b68e77b713d7",
+      "title": "Packrift Public Resource Registry Agent Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#4ae7b68e77b713d7"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, repaired, and submitted a compact Packrift Exact Spec Size Agent Gateway at `https://packrift-exact-spec-size-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "0a2604c364835c31",
+      "title": "Packrift Exact Spec Size Agent Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#0a2604c364835c31"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, repaired, and submitted a compact Packrift Product Schema Readiness Agent Gateway at `https://packrift-product-schema-readiness-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "028b280b3bff79bc",
+      "title": "Packrift Product Schema Readiness Agent Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#028b280b3bff79bc"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, and submitted a compact Packrift Catalog Trust Ledger Gateway at `https://packrift-catalog-trust-ledger-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "2e0e1b1b90d42230",
+      "title": "Packrift Catalog Trust Ledger Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#2e0e1b1b90d42230"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, and submitted a compact Packrift Packaging Price/Size Benchmark Gateway at `https://packrift-price-size-benchmark-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "a79e04061ee6bb1e",
+      "title": "Packrift Packaging Price/Size Benchmark Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#a79e04061ee6bb1e"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, repaired, and submitted a compact Packrift Catalog Knowledge Graph Gateway at `https://packrift-catalog-knowledge-graph-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "2b5200d6bc5d92b3",
+      "title": "Packrift Catalog Knowledge Graph Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#2b5200d6bc5d92b3"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, and submitted a compact Packrift Benchmark Navigator Gateway at `https://packrift-benchmark-navigator-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "a66e181442fe3cec",
+      "title": "Packrift Benchmark Navigator Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#a66e181442fe3cec"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, and submitted a compact Packrift Operations Resource Graph Gateway at `https://packrift-operations-resource-graph-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "829fabcdf81d21c1",
+      "title": "Packrift Operations Resource Graph Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#829fabcdf81d21c1"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, and submitted a compact Packrift SKU Evidence Cards Gateway at `https://packrift-sku-evidence-cards-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "f243646006b14dd2",
+      "title": "Packrift SKU Evidence Cards Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#f243646006b14dd2"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, repaired, and submitted a compact Packrift Procurement Readiness Gateway at `https://packrift-procurement-readiness-gate.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "c66c5662477c3835",
+      "title": "Packrift Procurement Readiness Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#c66c5662477c3835"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, and submitted a compact Packrift Pack Count Unit Signal Gateway at `https://packrift-pack-count-unit-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "f8fe6564657c5487",
+      "title": "Packrift Pack Count Unit Signal Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#f8fe6564657c5487"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, and submitted a compact Packrift Fit Substitution Gateway at `https://current-fit-substitution-gateway-20.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "03f136e9697e1f83",
+      "title": "Packrift Fit Substitution Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#03f136e9697e1f83"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, and submitted a compact Packrift Packaging Optimization Benchmark Gateway at `https://current-packaging-optimization-benc.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "2cfa41d624c18828",
+      "title": "Packrift Packaging Optimization Benchmark Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#2cfa41d624c18828"
+    },
+    {
+      "content_text": "Codex built, deployed, publicly verified, and submitted a compact Packrift Dimensional Weight Agent Gateway at `https://packrift-dimensional-weight-gateway.vercel.app/`.",
+      "date_published": "2026-06-03T13:32:31Z",
+      "id": "7cecf6b49c3d9d9e",
+      "title": "Packrift Dimensional Weight Agent Gateway",
+      "url": "https://packrift-authority-changelog-feed.vercel.app/updates/#7cecf6b49c3d9d9e"
+    }
+  ],
+  "title": "Packrift Authority Changelog Feed",
+  "version": "https://jsonfeed.org/version/1.1"
+}

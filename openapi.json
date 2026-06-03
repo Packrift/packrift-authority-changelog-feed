@@ -1,0 +1,55 @@
+{
+  "info": {
+    "description": "Static public Packrift authority changelog feed.",
+    "title": "Packrift Authority Changelog Feed",
+    "version": "1.0.0"
+  },
+  "openapi": "3.1.0",
+  "paths": {
+    "/data/authority-changelog.json": {
+      "get": {
+        "responses": {
+          "200": {
+            "description": "Public changelog JSON"
+          }
+        },
+        "summary": "Changelog JSON"
+      }
+    },
+    "/data/authority-changelog.jsonl": {
+      "get": {
+        "responses": {
+          "200": {
+            "description": "Public changelog JSONL"
+          }
+        },
+        "summary": "Changelog rows"
+      }
+    },
+    "/data/stats.json": {
+      "get": {
+        "responses": {
+          "200": {
+            "description": "Public stats JSON"
+          }
+        },
+        "summary": "Feed stats"
+      }
+    },
+    "/feed.xml": {
+      "get": {
+        "responses": {
+          "200": {
+            "description": "Public RSS feed"
+          }
+        },
+        "summary": "RSS feed"
+      }
+    }
+  },
+  "servers": [
+    {
+      "url": "https://packrift-authority-changelog-feed.vercel.app"
+    }
+  ]
+}

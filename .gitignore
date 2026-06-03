@@ -1,0 +1,10 @@
+STATUS-*.md
+github-readback-*.json
+github-html-*.html
+github-raw-*.txt
+swh-*.json
+swh-*.headers
+swh-*.html
+curl-*.txt
+*.log
+.DS_Store

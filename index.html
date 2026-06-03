@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index, follow">
+<title>Packrift Authority Changelog Feed</title>
+<meta name="description" content="Public Packrift authority changelog feed for verified backlink, discovery, and count-boundary updates.">
+<link rel="canonical" href="https://packrift-authority-changelog-feed.vercel.app/">
+<style>
+:root {
+  color-scheme: light;
+  --ink:#17202a;
+  --muted:#5d6875;
+  --line:#d8dee6;
+  --panel:#ffffff;
+  --paper:#f8fafc;
+  --blue:#1957a6;
+  --green:#1d6b4f;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+  line-height: 1.5;
+}
+header, main, footer { max-width: 1160px; margin: 0 auto; padding: 24px; }
+header { border-bottom: 1px solid var(--line); background: var(--panel); }
+.eyebrow { color: var(--blue); font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 0; }
+h1 { font-size: 34px; line-height: 1.12; margin: 8px 0 12px; letter-spacing: 0; }
+h2 { font-size: 22px; margin: 30px 0 10px; letter-spacing: 0; }
+p { max-width: 860px; }
+nav { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+nav a { color: var(--ink); text-decoration: none; border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; background: #fff; }
+nav a.active { border-color: var(--blue); color: var(--blue); font-weight: 700; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin: 18px 0; }
+.metric { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 14px; }
+.metric strong { display:block; font-size: 26px; line-height: 1.15; }
+.muted { color: var(--muted); }
+table { width: 100%; border-collapse: collapse; background: var(--panel); border: 1px solid var(--line); }
+th, td { text-align: left; vertical-align: top; border-bottom: 1px solid var(--line); padding: 10px; font-size: 14px; }
+th { background: #eef2f6; font-size: 12px; text-transform: uppercase; letter-spacing: 0; }
+code { background: #eef2f6; padding: 2px 4px; border-radius: 4px; }
+a { color: var(--blue); }
+footer { color: var(--muted); font-size: 13px; border-top: 1px solid var(--line); }
+@media (max-width: 680px) {
+  header, main, footer { padding: 18px; }
+  h1 { font-size: 28px; }
+  table { display:block; overflow-x:auto; }
+}
+</style>
+</head>
+<body>
+<header>
+<div class="eyebrow">Packrift public authority changelog</div>
+<h1>Packrift Authority Changelog Feed</h1>
+<p class="muted">Generated 2026-06-03T13:32:31Z from the Packrift authority ledger. This feed is read-only and does not promote referenced evidence unless the original ledger update already did.</p>
+<nav><a class="active" href="/">Overview</a><a class="" href="/updates/">Updates</a><a class="" href="/feeds/">Feeds</a><a class="" href="/verification-policy/">Policy</a><a class="" href="/count-boundaries/">Boundaries</a></nav>
+</header>
+<main>
+<section class="grid">
+<div class="metric"><strong>40</strong><span>ledger updates published</span></div>
+<div class="metric"><strong>62,533</strong><span>latest surfaces excluding indexing-only</span></div>
+<div class="metric"><strong>62,425</strong><span>latest verified live/existing</span></div>
+<div class="metric"><strong>1,437</strong><span>latest Tier A/B surfaces</span></div>
+</section>
+<h2>Purpose</h2>
+<p>This Packrift feed exposes recent authority-ledger movements through crawlable HTML plus RSS, Atom, JSON Feed, and ActivityStream formats. It is built for agents and crawlers that need the latest verified count boundaries without reading long project notes.</p>
+<h2>Latest Updates</h2>
+<table><thead><tr><th>Update</th><th>Summary</th><th>Evidence Ref</th><th>Movement</th></tr></thead><tbody><tr><td>2026-06-03 13:19 UTC<br><span class="muted">Packrift Authority Gateway Registry</span></td><td>Codex built, deployed, publicly verified, and submitted the Packrift Authority Gateway Registry at `https://packrift-authority-gateway-registry.vercel.app/`.<br><a href="https://packrift-authority-gateway-registry.vercel.app/">source</a></td><td><code>execution/current-authority-gateway-registry-2026-06-03-1240-utc/STATUS-2026-06-03-1319-UTC.md</code></td><td>surfaces: +21, verified: +21, owned: +20, discovery: +40, Tier A/B: +15</td></tr><tr><td>2026-06-03 12:35 UTC<br><span class="muted">Packrift Contribution Status Gateway</span></td><td>Codex ran a targeted public GitHub pending-queue readback, then built, deployed, publicly verified, and submitted a compact Packrift Contribution Status Gateway at `https://packrift-contribution-status-gateway.vercel.app/`.<br><a href="https://packrift-contribution-status-gateway.vercel.app/">source</a></td><td><code>execution/current-targeted-pending-pr-readback-2026-06-03-1225-utc/STATUS-2026-06-03-1235-UTC.md</code></td><td>surfaces: +21, verified: +21, owned: +20, discovery: +40, Tier A/B: +15</td></tr><tr><td>2026-06-03 12:19 UTC<br><span class="muted">Packrift GitHub Pages API Directory Gateway</span></td><td>Codex built, deployed, publicly verified, and submitted a compact Packrift GitHub Pages API Directory Gateway at `https://packrift-github-pages-api-gateway.vercel.app/`.<br><a href="https://packrift-github-pages-api-gateway.vercel.app/">source</a></td><td><code>execution/current-github-pages-api-directory-gateway-2026-06-03-1210-utc/STATUS-2026-06-03-1219-UTC.md</code></td><td>surfaces: +21, verified: +21, owned: +20, discovery: +40, Tier A/B: +15</td></tr><tr><td>2026-06-03 12:05 UTC<br><span class="muted">Packrift Agent Discovery Hub Gateway</span></td><td>Codex built, deployed, publicly verified, and submitted a compact Packrift Agent Discovery Hub Gateway at `https://packrift-agent-discovery-hub-gateway.vercel.app/`.<br><a href="https://packrift-agent-discovery-hub-gateway.vercel.app/">source</a></td><td><code>execution/current-agent-discovery-hub-gateway-2026-06-03-1200-utc/STATUS-2026-06-03-1205-UTC.md</code></td><td>surfaces: +20, verified: +20, owned: +20, discovery: +40, Tier A/B: +15</td></tr><tr><td>2026-06-03 11:51 UTC<br><span class="muted">Packrift Flex Fit Lab Gateway</span></td><td>Codex built, deployed, publicly verified, and submitted a compact Packrift Flex Fit Lab Gateway at `https://packrift-flex-fit-lab-gateway.vercel.app/`.<br><a href="https://packrift-flex-fit-lab-gateway.vercel.app/">source</a></td><td><code>execution/current-flex-fit-lab-gateway-2026-06-03-1142-utc/STATUS-2026-06-03-1151-UTC.md</code></td><td>surfaces: +20, verified: +20, owned: +20, discovery: +40, Tier A/B: +15</td></tr><tr><td>2026-06-03 11:39 UTC<br><span class="muted">Packrift Technical SEO Discovery Gateway</span></td><td>Codex built, deployed, publicly verified, repaired, and submitted a compact Packrift Technical SEO Discovery Gateway at `https://packrift-technical-seo-discovery-gateway.vercel.app/`.<br><a href="https://packrift-technical-seo-discovery-gateway.vercel.app/">source</a></td><td><code>execution/current-technical-seo-discovery-gateway-2026-06-03-1120-utc/STATUS-2026-06-03-1139-UTC.md</code></td><td>surfaces: +20, verified: +20, owned: +20, discovery: +40, Tier A/B: +15</td></tr><tr><td>2026-06-03 10:57 UTC<br><span class="muted">Packrift Public Resource Registry Agent Gateway</span></td><td>Codex built, deployed, publicly verified, and submitted a compact Packrift Public Resource Registry Agent Gateway at `https://packrift-public-resource-registry-gateway.vercel.app/`.<br><a href="https://packrift-public-resource-registry-gateway.vercel.app/">source</a></td><td><code>execution/current-public-resource-registry-gateway-2026-06-03-1045-utc/STATUS-2026-06-03-1057-UTC.md</code></td><td>surfaces: +21, verified: +21, owned: +20, discovery: +40, Tier A/B: +15</td></tr><tr><td>2026-06-03 10:41 UTC<br><span class="muted">Packrift Exact Spec Size Agent Gateway</span></td><td>Codex built, deployed, publicly verified, repaired, and submitted a compact Packrift Exact Spec Size Agent Gateway at `https://packrift-exact-spec-size-gateway.vercel.app/`.<br><a href="https://packrift-exact-spec-size-gateway.vercel.app/">source</a></td><td><code>execution/current-exact-spec-size-gateway-2026-06-03-1030-utc/STATUS-2026-06-03-1041-UTC.md</code></td><td>surfaces: +22, verified: +22, owned: +20, discovery: +40, Tier A/B: +15</td></tr><tr><td>2026-06-03 10:23 UTC<br><span class="muted">Packrift Product Schema Readiness Agent Gateway</span></td><td>Codex built, deployed, publicly verified, repaired, and submitted a compact Packrift Product Schema Readiness Agent Gateway at `https://packrift-product-schema-readiness-gateway.vercel.app/`.<br><a href="https://packrift-product-schema-readiness-gateway.vercel.app/">source</a></td><td><code>execution/current-product-schema-readiness-gateway-2026-06-03-1013-utc/STATUS-2026-06-03-1023-UTC.md</code></td><td>surfaces: +21, verified: +21, owned: +20, discovery: +40, Tier A/B: +15</td></tr><tr><td>2026-06-03 10:06 UTC<br><span class="muted">Packrift Catalog Trust Ledger Gateway</span></td><td>Codex built, deployed, publicly verified, and submitted a compact Packrift Catalog Trust Ledger Gateway at `https://packrift-catalog-trust-ledger-gateway.vercel.app/`.<br><a href="https://packrift-catalog-trust-ledger-gateway.vercel.app/">source</a></td><td><code>execution/current-catalog-trust-ledger-gateway-2026-06-03-1005-utc/STATUS-2026-06-03-1006-UTC.md</code></td><td>surfaces: +21, verified: +21, owned: +20, discovery: +40, Tier A/B: +15</td></tr><tr><td>2026-06-03 09:49 UTC<br><span class="muted">Packrift Packaging Price/Size Benchmark Gateway</span></td><td>Codex built, deployed, publicly verified, and submitted a compact Packrift Packaging Price/Size Benchmark Gateway at `https://packrift-price-size-benchmark-gateway.vercel.app/`.<br><a href="https://packrift-price-size-benchmark-gateway.vercel.app/">source</a></td><td><code>execution/current-packaging-price-size-gateway-2026-06-03-0942-utc/STATUS-2026-06-03-0949-UTC.md</code></td><td>surfaces: +21, verified: +21, owned: +20, discovery: +40, Tier A/B: +15</td></tr><tr><td>2026-06-03 09:38 UTC<br><span class="muted">Packrift Catalog Knowledge Graph Gateway</span></td><td>Codex built, deployed, publicly verified, repaired, and submitted a compact Packrift Catalog Knowledge Graph Gateway at `https://packrift-catalog-knowledge-graph-gateway.vercel.app/`.<br><a href="https://packrift-catalog-knowledge-graph-gateway.vercel.app/">source</a></td><td><code>execution/current-catalog-knowledge-graph-gateway-2026-06-03-0934-utc/STATUS-2026-06-03-0938-UTC.md</code></td><td>surfaces: +21, verified: +21, owned: +20, discovery: +40, Tier A/B: +15</td></tr></tbody></table>
+</main>
+<footer>Packrift LLC public authority changelog feed. Public records only; no account, API key, or credentials required.</footer>
+</body>
+</html>

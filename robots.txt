@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://packrift-authority-changelog-feed.vercel.app/sitemap.xml

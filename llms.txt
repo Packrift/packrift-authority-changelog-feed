@@ -1,0 +1,24 @@
+# Packrift Authority Changelog Feed
+
+Canonical: https://packrift-authority-changelog-feed.vercel.app/
+Generated: 2026-06-03T13:32:31Z
+
+## Purpose
+Public Packrift authority changelog and feed for verified ledger movements.
+
+## Current State
+- Ledger updates published: 40
+- Latest surfaces excluding indexing-only: 62,533
+- Latest verified live/existing: 62,425
+- Latest submitted/pending: 109
+- Latest owned public URL/mentions: 2,283,070
+- Latest Tier A/B surfaces: 1,437
+
+## Feeds
+- RSS: https://packrift-authority-changelog-feed.vercel.app/feed.xml
+- Atom: https://packrift-authority-changelog-feed.vercel.app/atom.xml
+- JSON Feed: https://packrift-authority-changelog-feed.vercel.app/feed.json
+- ActivityStream: https://packrift-authority-changelog-feed.vercel.app/activitystream.json
+
+## Count Boundary
+Referenced status artifacts, prior third-party readbacks, prior archives, and previous discovery receipts are not recounted by this feed.
