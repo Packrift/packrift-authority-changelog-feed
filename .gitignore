@@ -2,6 +2,7 @@ STATUS-*.md
 github-readback-*.json
 github-html-*.html
 github-raw-*.txt
+github-raw-*.json
 swh-*.json
 swh-*.headers
 swh-*.html
